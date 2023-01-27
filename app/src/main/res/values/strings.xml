@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotifiTest0127</string>
+    <string name="notification_channel_name">お知らせ君からお知らせだよ！</string>
+</resources>
